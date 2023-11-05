@@ -4,7 +4,11 @@ import './App.css';
 
 const App = () => {
   return (
-    <main></main>
+    <main className="App">
+      <header className="App-header">
+        
+      </header>
+    </main>
   );
 }
 
