@@ -9,7 +9,8 @@
     },
     {
       "src": "favicon-16x16.png",
-      "sizes": "16x16"
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
       "src": "logo192.png",
